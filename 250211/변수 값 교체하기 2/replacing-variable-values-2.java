@@ -6,7 +6,7 @@ public class Main {
 
         a = b;
 
-        System.out.print(a);
+        System.out.print(a + "\n");
         System.out.print(b);
     }
 }
